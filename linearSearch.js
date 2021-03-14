@@ -6,3 +6,7 @@ function linearSearch(arr, val) {
 }
 
 console.log(linearSearch([12,45, 67,90], 67));
+
+// BIG O
+
+// O(1)-> Best case             O(n)-> Worst case
